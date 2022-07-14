@@ -13,9 +13,6 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=da2hn&theme=react&hide_border=true&include_all_commits=true&count_private=false) &nbsp;  &nbsp;  &nbsp;  &nbsp; 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CJH0120&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-<!--  ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=da2hn&theme=discord&no-frame=false&no-bg=false&margin-w=4) -->
 
 
 
