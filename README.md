@@ -1,4 +1,4 @@
- # 💫About Me :
+ # 👀About Me :
 백엔드 개발자를 목표로 공부하고 있는 김대훈 입니다.
 
 # 💻Tech Stack
